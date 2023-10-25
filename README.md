@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mbglegend" target="blank"><img src="https://img.shields.io/twitter/follow/mbglegend?logo=twitter&style=for-the-badge" alt="mbglegend" /></a> </p>
 
-- 🔭 I’m currently working on **Thundercore athletics GYM site**
-
-- 🌱 I’m currently learning **react.js**
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS**
 
 - 📫 How to reach me **mohamadbassam1978@gmail.com**
